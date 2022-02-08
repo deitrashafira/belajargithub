@@ -1,1 +1,1 @@
-
+print("ichi ni san nyaw arigatou ^^")
