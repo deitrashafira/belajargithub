@@ -1,1 +1,2 @@
-print("ichi ni san nyaw arigatou ^^")
+print("hello world")
+
