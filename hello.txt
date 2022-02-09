@@ -1,2 +1,7 @@
 print("hello world")
 
+mencoba menambahkan pembaruan deskripsi
+
+mencoba squash
+
+buat commit sampai 3
